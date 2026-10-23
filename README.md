@@ -8,72 +8,25 @@
 
 <p align="center">
   <a href="https://trendshift.io/repositories/25760?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25760" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/25760" alt="hugohe3%2Fppt-master | Trendshift" width="250" height="55"/></a>
-  <a href="https://www.star-history.com/hugohe3/ppt-master"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank&theme=dark" /><img alt="Star History Rank" src="https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank" width="186" height="55" /></picture></a>
+  <a href="https://www.star-history.com/hugohe3/ppt-maste帮我把 github的DEE8ZDJ/ppt-master技能 获取本机r"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank&theme=dark" /><img alt="Star History Rank" src="https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank" width="186" height="55" /></picture></a>
 </p>
 
 English | [中文](./README_CN.md)
 
-> 🆕 **As a finance professional (CPA · CPV · Consulting Engineer (Investment)), I drew on my expertise and project experience to build a tool website: [Construction Project Economic Evaluation](https://cs.hehugo.com/)** (in Chinese) — enter your project data and get a full financial evaluation online: investment, revenue, cost, debt service, profit, cash flow and balance sheet statements, plus IRR, NPV, sensitivity and break-even analysis, exportable to Excel / Word. Built for energy projects such as wind, solar and storage, with a general-purpose mode for other projects. The site is in an early trial phase; the first 100 accounts get 3 free runs, later accounts get 1.
-
-## ❤️ Sponsors
-
-This project is kept free and open source with the support of <a href="https://www.kimi.com/code/?aff=ppt-master">Kimi</a>, <a href="https://www.packyapi.ai/register?aff=ppt-master">PackyCode</a>, <a href="https://apikey.fan/register?aff=PPT-MASTER">APIKEY.FAN</a>, <a href="https://runapi.host/register?aff=WMLJ">RunAPI</a> and other sponsors.
-
-> **[Want to appear here?](SPONSORING.md)**
-
-<details open>
-<summary>Click to collapse</summary>
-
-<p align="center">
-  <a href="https://www.kimi.com/code/?aff=ppt-master"><img src="https://gcdn.moonshot.cn/growth-cdn/sponsor/kimi-en.png" alt="Kimi" width="100%"></a>
-</p>
-
-Thanks to [Kimi](https://www.kimi.com/code/?aff=ppt-master) for sponsoring this project! [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) is the world's first open 3T-class model, featuring native vision and a 1-million-token context window. With PPT Master, K3 can understand source materials such as PDFs, DOCX files, and web pages, identify key points, structure the narrative, and generate a natively editable PPTX that you can continue refining in PowerPoint.
-
-**Try a [Kimi Code plan](https://www.kimi.com/code/?aff=ppt-master) ([中文站](https://www.kimi.com/code/?aff=ppt-master) | [Global](https://www.kimi.ai/code/?aff=ppt-master)), or access the API through the Kimi Open Platform ([中文站](https://platform.kimi.com?aff=ppt-master) | [Global](https://platform.kimi.ai?aff=ppt-master)).**
-
-<hr>
-
-<table>
-  <tr>
-    <td width="180"><a href="https://www.packyapi.ai/register?aff=ppt-master"><img src="docs/assets/sponsors/packycode.png" alt="PackyCode" width="150"></a></td>
-    <td>Thanks to PackyCode for sponsoring this project! PackyCode is a reliable and efficient API relay service provider, offering relay services for Claude Code, Codex, Gemini, and more. PackyCode provides special discounts for our project users: register using <a href="https://www.packyapi.ai/register?aff=ppt-master">this link</a> and enter the promo code <strong>ppt-master</strong> during recharge to get 10% off.</td>
-  </tr>
-  <tr>
-    <td width="180"><a href="https://apikey.fan/register?aff=PPT-MASTER"><img src="docs/assets/sponsors/apikey-fan.png" alt="APIKEY.FAN" width="150"></a></td>
-    <td>Thanks to APIKEY.FAN for sponsoring this project! APIKEY.FAN is a professional enterprise-grade AI relay service committed to stable, efficient, and low-cost AI access for businesses and developers. The platform supports mainstream models including Claude, OpenAI, and Gemini, with prices as low as <strong>7% of official rates</strong>. Register through <a href="https://apikey.fan/register?aff=PPT-MASTER">our dedicated link</a> for an exclusive perk: <strong>up to 5% off on top-ups, permanently</strong>.</td>
-  </tr>
-  <tr>
-    <td width="180"><a href="https://runapi.host/register?aff=WMLJ"><img src="docs/assets/sponsors/runapi.png" alt="RunAPI" width="150"></a></td>
-    <td>Thanks to RunAPI for sponsoring this project! RunAPI is an efficient and stable API platform — a single API Key gives you access to 150+ leading models, including OpenAI, Claude, Gemini, DeepSeek, and Grok, at prices as low as <strong>10% of official rates</strong>, with exceptional stability and seamless compatibility with tools like Claude Code. RunAPI offers an exclusive perk for PPT Master users: register and contact an administrator via <a href="https://runapi.host/register?aff=WMLJ">our dedicated link</a> to claim <strong>¥7 in free credit</strong>.</td>
-  </tr>
-</table>
 
 </details>
 
-> **Editable is already table stakes — what sets PPT Master apart is native depth.** It hands you a real PowerPoint: slide masters, native shapes, data-backed charts and tables — not flat text boxes, and not a filled-in template. It also does more than lay slides out nicely — it reasons the argument into shape first, then designs; and that native depth keeps **converging with PowerPoint itself**, adding more of its native capabilities release after release. In form, it's a workflow that runs inside any agent-capable AI tool: hand the AI your topic or material, and it generates on your machine — your data stays local, no platform or model lock-in. How it works and where the limits are → [Product Positioning](#product-positioning).
-
-<p align="center">
-  <a href="#quick-start"><strong>Quick Start</strong></a> ·
-  <a href="https://hugohe3.github.io/ppt-master-examples/"><strong>Live Demo</strong></a> ·
-  <a href="https://github.com/hugohe3/ppt-master-examples"><strong>Examples</strong></a> ·
-  <a href="./docs/faq.md"><strong>FAQ</strong></a> ·
-  <a href="./docs/roadmap.md"><strong>Roadmap</strong></a>
-</p>
+> **Editable is already table stakes — what sets PPT Master apart is native depth.** It hands you a real PowerPoint: slide masters, native shapes, data-backed charts and tables — not flat text boxes, and not a filled-in template. It also does more than lay slides out nicely — it reasons the argument into shape first, then designs; and that native depth keeps **converging with PowerPoint itself**, adding more of its native capabilities release after release. In form, it's a workflow that runs inside any agent-capable AI tool: hand the AI your topic or material, and it generates on your machine — your data stays local, no platform or model lock-in. How it works and where the limits are → [Product Positioning].
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://hugohe3.github.io/ppt-master-examples/viewer.html?project=ppt169_pixel_breakfast_atlas"><img src="docs/assets/screenshots/preview_pixel_breakfast_atlas.webp" alt="Pixel art — Chinese breakfast atlas" /></a><br/>
       <sub><b>Pixel Art</b> — Chinese breakfast atlas: AI sprite sheets, HUD panels, Morph and 8-bit sound cues</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://hugohe3.github.io/ppt-master-examples/viewer.html?project=ppt169_attention_is_all_you_need"><img src="docs/assets/screenshots/preview_attention_is_all_you_need.webp" alt="Technical blueprint — Attention Is All You Need" /></a><br/>
       <sub><b>Technical Blueprint</b> — Transformer paper walkthrough: diagrams, native formulas, notes and animations</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://hugohe3.github.io/ppt-master-examples/viewer.html?project=ppt169_china_telecom_2025"><img src="docs/assets/screenshots/preview_china_telecom_2025.webp" alt="Brand template — China Telecom 2025 results" /></a><br/>
-      <sub><b>Brand Template</b> — China Telecom 2025 results on the company's own deck template, with a native-chart export</sub>
     </td>
   </tr>
 </table>
